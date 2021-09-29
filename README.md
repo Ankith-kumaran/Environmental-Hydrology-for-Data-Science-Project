@@ -82,7 +82,7 @@ If the project works out in the way envisoned, a real-time  automatic prediction
  
 As for the output, the system would be able to correctly predict small forest fires, which constitute a majority of the fire occurences. This in turn would help forest management to allocate their resources properly, in the event of a forest fire.
 
-![Model Output](
+![Model Output](https://github.com/Ankith-kumaran/Environmental-Hydrology-for-Data-Science-Project/blob/main/model%20output.png)
 
 <br>
 
