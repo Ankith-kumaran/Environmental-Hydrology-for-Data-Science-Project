@@ -62,3 +62,12 @@ Progress can be measured by the following milestones:
 - [] Model Selection and Training
 - [] Model analysis and Validation
 - [] Model Deployment
+
+
+<br>
+
+## Architecture or Model
+
+The low level data flow diagram(DFD) is represented as follows:
+
+![Level 0 DFD](
