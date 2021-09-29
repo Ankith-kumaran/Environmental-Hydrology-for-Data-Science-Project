@@ -43,4 +43,4 @@ The primary aim of this project is to be able to predict the burned area of smal
    13. Area - the burned area of the forest (in ha): 0.00 to 1090.84
  
  Here's a depiction of what the attributes of the FWI system means:
- ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FFire-weather-index-calculation-scheme_fig3_285955800&psig=AOvVaw2kPy8et2Z5tcTyMB44d1zY&ust=1633013228814000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiP3r62pPMCFQAAAAAdAAAAABAD)
+ ![](https://www.researchgate.net/profile/Ari-Venaelaeinen/publication/285955800/figure/fig3/AS:406088869531653@1473830539797/Fire-weather-index-calculation-scheme.png)
