@@ -25,11 +25,13 @@ The primary aim of this project is to be able to predict the burned area of smal
  
  ## Dataset used
  
- The following dataset, attached in the same repository titled 'forestfires.csv' is a dataset consisting of six components, which are as follows:
- - Fine Fuel Moisture Code (FFMC)18.7 to 96.20
- - Duff Moisture Code (DMC) 1.1 to 291.3 
- - Drought Code (DC)7.9 to 860.6 
- - Initial Spread Index(ISI) 0.0 to 56.10
- - temp - temperature in Celsius degrees: 2.2 to 33.30
- -  RH - relative humidity in %: 15.0 to 100
+ The following dataset, attached in the same repository titled 'forestfires.csv' is a dataset obtained from [title] https://www.kaggle.com/sumitm004/forest-fire-area .  The dataset is obtained from the forest Fire Weather Index(FWI) which is standard measure for forest fire intensity, based off of Canada.
+ 
+ The following dataset consists of six components, which are as follows:
+ - Fine Fuel Moisture Code (FFMC) : ranges from 18.7 to 96.20
+ - Duff Moisture Code (DMC): ranges from 1.1 to 291.3 
+ - Drought Code (DC): ranges from 7.9 to 860.6 
+ - Initial Spread Index(ISI):ranges from 0.0 to 56.10
+ - temp - temperature in Celsius degrees: ranges from 2.2 to 33.30
+ -  RH - relative humidity in %: ranges from 15.0 to 100
  
