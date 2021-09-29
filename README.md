@@ -53,3 +53,4 @@ As this is a fairly common Machine Learning problem, the Lifecycle of a ML probl
 
 ![](https://www.xenonstack.com/hubfs/xenonstack-machine-learning-pipeline.png)
 
+In this case, the process is simplified as we have the collected data, so the process of collecting and storing can be bypassed. We will start our process by examining and cleaning the data (Preprocessing).
