@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
- ![](https://media.giphy.com/media/NFmRZUrera1na/giphy.gif)
+ ![](https://media.giphy.com/media/Wp7FNB13QfqEGpB00a/giphy.gif)
  
  
 
