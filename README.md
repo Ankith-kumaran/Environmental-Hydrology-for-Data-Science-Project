@@ -44,3 +44,7 @@ The primary aim of this project is to be able to predict the burned area of smal
  
  Here's a depiction of what the attributes of the FWI system means:
  ![](https://www.researchgate.net/profile/Ari-Venaelaeinen/publication/285955800/figure/fig3/AS:406088869531653@1473830539797/Fire-weather-index-calculation-scheme.png)
+<br>
+
+## Pipeline of the Project
+
