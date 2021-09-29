@@ -25,13 +25,20 @@ The primary aim of this project is to be able to predict the burned area of smal
  
  ## Dataset used
  
- The following dataset, attached in the same repository titled 'forestfires.csv' is a dataset obtained from [here](https://www.kaggle.com/sumitm004/forest-fire-area).  The dataset is obtained from the forest Fire Weather Index(FWI) which is standard measure for forest fire intensity, based off of Canada.
+ The following dataset, attached in the same repository titled 'forestfires.csv' is a dataset obtained from [here](https://www.kaggle.com/sumitm004/forest-fire-area).  The dataset is obtained from the forest Fire Weather Index(FWI) which is the standard measure for forest fire intensity, based off of Canada.
  
  The following dataset consists of six components, which are as follows:
- - Fine Fuel Moisture Code (FFMC) : ranges from 18.7 to 96.20
- - Duff Moisture Code (DMC): ranges from 1.1 to 291.3 
- - Drought Code (DC): ranges from 7.9 to 860.6 
- - Initial Spread Index(ISI):ranges from 0.0 to 56.10
- - temp - temperature in Celsius degrees: ranges from 2.2 to 33.30
- -  RH - relative humidity in %: ranges from 15.0 to 100
+  1. X - x-axis spatial coordinate within the Montesinho park map: 1 to 9
+   2. Y - y-axis spatial coordinate within the Montesinho park map: 2 to 9
+   3. month - month of the year: "jan" to "dec" 
+   4. day - day of the week: "mon" to "sun"
+   5. FFMC - FFMC index from the FWI system: 18.7 to 96.20
+   6. DMC - DMC index from the FWI system: 1.1 to 291.3 
+   7. DC - DC index from the FWI system: 7.9 to 860.6 
+   8. ISI - ISI index from the FWI system: 0.0 to 56.10
+   9. temp - temperature in Celsius degrees: 2.2 to 33.30
+   10. RH - relative humidity in %: 15.0 to 100
+   11. wind - wind speed in km/h: 0.40 to 9.40 
+   12. rain - outside rain in mm/m2 : 0.0 to 6.4 
+   13. area - the burned area of the forest (in ha): 0.00 to 1090.84
  
