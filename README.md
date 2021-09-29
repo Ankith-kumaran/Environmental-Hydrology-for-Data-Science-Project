@@ -21,7 +21,15 @@
 By undertaking this project, I intend to explore and experiment using a **Data Mining** approach to predict the burned area of forest fires.Different models such as  Support Vector Machines (SVM) and Random Forests would be trained with the given data, and the one with the highest accuracy(which is able to predict forest fires as precise as possible) would be selected. 
 
 The primary aim of this project is to be able to predict the burned area of small fires, which are more frequent. Such knowledge is particularly useful for improving firefighting resource management (e.g. prioritizing targets for air tankers and ground). 
+ <br>
  
+ ## Dataset used
  
-
-
+ The following dataset, attached in the same repository titled 'forestfires.csv' is a dataset consisting of six components, which are as follows:
+ - Fine Fuel Moisture Code (FFMC)18.7 to 96.20
+ - Duff Moisture Code (DMC) 1.1 to 291.3 
+ - Drought Code (DC)7.9 to 860.6 
+ - Initial Spread Index(ISI) 0.0 to 56.10
+ - temp - temperature in Celsius degrees: 2.2 to 33.30
+ -  RH - relative humidity in %: 15.0 to 100
+ 
