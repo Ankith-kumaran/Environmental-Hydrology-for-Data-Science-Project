@@ -25,7 +25,7 @@ The primary aim of this project is to be able to predict the burned area of smal
  
  ## Dataset used
  
- The following dataset, attached in the same repository titled 'forestfires.csv' is a dataset obtained from [Dataset here] https://www.kaggle.com/sumitm004/forest-fire-area .  The dataset is obtained from the forest Fire Weather Index(FWI) which is standard measure for forest fire intensity, based off of Canada.
+ The following dataset, attached in the same repository titled 'forestfires.csv' is a dataset obtained from [Dataset here](https://www.kaggle.com/sumitm004/forest-fire-area).  The dataset is obtained from the forest Fire Weather Index(FWI) which is standard measure for forest fire intensity, based off of Canada.
  
  The following dataset consists of six components, which are as follows:
  - Fine Fuel Moisture Code (FFMC) : ranges from 18.7 to 96.20
