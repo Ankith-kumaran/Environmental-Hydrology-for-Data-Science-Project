@@ -88,3 +88,9 @@ As for the output, the system would be able to correctly predict small forest fi
 
 ## References
 
+1. P. Cortez and A. Morais. A Data Mining Approach to Predict Forest Fires using Meteorological Data.
+2. Tables for the Canadian Forest Fire Weather Index System, Canadian Forestry Service, Forest Technical Report, 1984.
+3.   In J. Neves, M. F. Santos and J. Machado Eds., New Trends in Artificial Intelligence, 
+  Proceedings of the 13th EPIA 2007 - Portuguese Conference on Artificial Intelligence, December, 
+  Guimaraes, Portugal. Available at [here](http://www.dsi.uminho.pt/~pcortez/fires.pdf)
+
