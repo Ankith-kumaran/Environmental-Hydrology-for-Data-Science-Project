@@ -8,7 +8,7 @@
  <br>
  
  <br>
- **Forest fires** are a major environmental issue, creating economical and ecological damage while endangering human lives. Fast detection is a key element for controlling such phenomenon. To achieve this, one alternative is to use automatic tools based on local sensors, such as provided by meteorological stations. In effect, meteorological conditions (e.g. temperature, wind) are known to influence forest fires and several fire indexes, such as the forest **Fire Weather Index (FWI)**, use such data.
+ ** Forest fires ** are a major environmental issue, creating economical and ecological damage while endangering human lives. Fast detection is a key element for controlling such phenomenon. To achieve this, one alternative is to use automatic tools based on local sensors, such as provided by meteorological stations. In effect, meteorological conditions (e.g. temperature, wind) are known to influence forest fires and several fire indexes, such as the forest **Fire Weather Index (FWI)**, use such data.
  
  With the aid of technology and sensors, our aim to predict when these forest fires would occur, their intensity(extent of spread) and hopefully create a model based on the data    available in the forest Fire Weather Index(FWI) dataset.
  <br>
