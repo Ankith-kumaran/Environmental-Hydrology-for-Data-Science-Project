@@ -49,5 +49,7 @@ The primary aim of this project is to be able to predict the burned area of smal
 
 ## Pipeline of the Project
 
-As this is a fairly common Machine Learning problem, the Lifecycle of a ML problem can be applied here.
+As this is a fairly common Machine Learning problem, the Lifecycle of a ML problem can be applied here.It is as follows:
+
+![](https://www.xenonstack.com/hubfs/xenonstack-machine-learning-pipeline.png)
 
