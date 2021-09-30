@@ -27,7 +27,7 @@ The primary aim of this project is to be able to predict the burned area of smal
  
  The following dataset, attached in the same repository titled 'forestfires.csv' is a dataset obtained from [here](https://www.kaggle.com/sumitm004/forest-fire-area).  The dataset is obtained from the forest Fire Weather Index(FWI) which is the standard measure for forest fire intensity, based off of Canada.
  
- The following dataset contains data from 517 fires which took place in the Monteninho Natural Park, and consists of the following components:
+ The dataset contains data from 517 fires which took place in the Montesinho Natural Park, and consists of the following components:
  
    1. X - x-axis spatial coordinate within the Montesinho park map: 1 to 9
    2. Y - y-axis spatial coordinate within the Montesinho park map: 2 to 9
