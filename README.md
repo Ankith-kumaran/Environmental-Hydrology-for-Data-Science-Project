@@ -33,9 +33,9 @@ The primary aim of this project is to be able to predict the burned area of smal
    2. Y - y-axis spatial coordinate within the Montesinho park map: 2 to 9
    3. Month - month of the year: "jan" to "dec" 
    4. Day - day of the week: "mon" to "sun"
-   5. FFMC - FFMC index from the FWI system: 18.7 to 96.20
-   6. DMC - DMC index from the FWI system: 1.1 to 291.3 
-   7. DC - DC index from the FWI system: 7.9 to 860.6 
+   5. FFMC - FFMC index from the FWI system: 18.7 to 96.20 (depicts moisture content surface litter and influences ignition and fire spread)
+   6. DMC - DMC index from the FWI system: 1.1 to 291.3 (denotes moisture content of  shallow and deep organic layers)
+   7. DC - DC index from the FWI system: 7.9 to 860.6 (represents drying deep into the soil)
    8. ISI - ISI index from the FWI system: 0.0 to 56.10
    9. Temp - temperature in Celsius degrees: 2.2 to 33.30
    10. RH - relative humidity in %: 15.0 to 100
