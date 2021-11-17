@@ -1,0 +1,4 @@
+ffmc - fine fuel moisture code
+dmc - duff mositure code
+dc - drought code
+isi - internal spread index 
