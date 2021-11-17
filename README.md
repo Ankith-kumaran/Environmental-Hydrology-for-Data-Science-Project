@@ -71,7 +71,7 @@ Progress can be measured by the following milestones:
 
 The low level data flow diagram(DFD) is represented as follows:
 
-![Level 0 DFD](https://github.com/Ankith-kumaran/Environmental-Hydrology-for-Data-Science-Project/blob/main/Level%201-%20DFD.png) 
+![Level 0 DFD](https://github.com/Ankith-kumaran/Environmental-Hydrology-for-Data-Science-Project/Model Preparation/blob/main/Level%201-%20DFD.png) 
 
 
 <br>
@@ -83,7 +83,7 @@ If the project works out in the way envisoned, a real-time  automatic prediction
  
 As for the output, the system would be able to correctly predict small forest fires, which constitute a majority of the fire occurences. This in turn would help forest management to allocate their resources properly, in the event of a forest fire.
 
-![Model Output](https://github.com/Ankith-kumaran/Environmental-Hydrology-for-Data-Science-Project/blob/main/model%20output.png)
+![Model Output](https://github.com/Ankith-kumaran/Environmental-Hydrology-for-Data-Science-Project/Model Preparation/blob/main/model%20output.png)
 
 <br>
 
