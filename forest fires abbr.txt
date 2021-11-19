@@ -1,4 +1,4 @@
 FFMC - fine fuel moisture code - A numeric rating of the moisture content of litter and other fine fuels
-DMC- duff mositure code - numeric rating of the average moisture rating of loosely compacted organic layers of moderate depth
+DMC- duff moisture code - numeric rating of the average moisture rating of loosely compacted organic layers of moderate depth
 DC- drought code - numeric rating of the average moisture content of deep, organic layers
 ISI - initial spread index - numeric rating of expected rate of fire spread
