@@ -3,7 +3,7 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
 
-## ** Table of Contents
+## Table of Contents
 * [Problem Statement](#Problem Statement)
 * [Objective](#Objective)
 * [Dataset Used](#Dataset)
