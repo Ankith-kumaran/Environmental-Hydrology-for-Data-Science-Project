@@ -59,10 +59,10 @@ In this case, the process is simplified as we have the collected data, so the pr
 Progress can be measured by the following milestones:
 - [X] Data Visualization
 - [X] Data Preprocessing
-- [] Data Analysis/ Parameter Selection
-- [] Model Selection and Training
-- [] Model analysis and Validation
-- [] Model Deployment
+- [X] Data Analysis/ Parameter Selection
+- [X] Model Selection and Training
+- [X] Model analysis and Validation
+- [X] Model Deployment
 
 
 <br>
