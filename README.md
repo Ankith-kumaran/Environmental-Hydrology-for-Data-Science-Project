@@ -3,6 +3,17 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
 
+## ** Table of Contents
+*[Problem Statement](#Problem Statement)
+*[Objective](#Objective)
+*[Dataset Used](#Dataset)
+*[Pipeline of the Project](#Pipeline)
+*[Predicted Output](#Predicted Output)
+*[References](#References)
+
+
+<br>
+
 ## **Problem Statement**
 
  ![](https://media.giphy.com/media/Wp7FNB13QfqEGpB00a/giphy.gif)
